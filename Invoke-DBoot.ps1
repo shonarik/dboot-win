@@ -1,4 +1,6 @@
 # This script relies on winget. This tool is not always installed.
+# You ca install winget by opening Windows Store and updating App Installer.
+
 # PowerShell Elevation provided by: https://docs.microsoft.com/en-us/archive/blogs/virtual_pc_guy/a-self-elevating-powershell-script
 # Get the ID and security principal of the current user account
  $myWindowsID=[System.Security.Principal.WindowsIdentity]::GetCurrent()
