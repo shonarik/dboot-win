@@ -36,7 +36,7 @@
     # Exit from the current, unelevated, process
     exit
     }
-  
+    
  # Run your code that needs to be elevated here
 
  #################
